@@ -1,6 +1,3 @@
- Flowseal/zapret-discord-youtube 
-Альтернатива https://github.com/bol-van/zapret-win-bundle
-Также вы можете материально поддержать оригинального разработчика zapret тут
 
 Caution
 
