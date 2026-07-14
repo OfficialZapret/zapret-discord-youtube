@@ -1,3 +1,4 @@
+КАЧАТЬ ТУТ - https://github.com/OfficialZapret/zapret-discord-youtube/releases/tag/zapret
 
 Caution
 
