@@ -1,6 +1,3 @@
-КАЧАТЬ ТУТ - https://github.com/OfficialZapret/zapret-discord-youtube/releases/tag/zapret
-Пароль - 1111
-
 
 
 ФЕЙКИ
